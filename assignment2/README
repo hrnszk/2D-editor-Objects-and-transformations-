@@ -1,0 +1,12 @@
+This program is for Homework 1.2 - 2D editor (Objects and transformations)
+
+
+Completed: 
+1.Selection - Space Pick
+2.Position Manipulation - Mouse Drag *
+3.Orientation Manipulation - Mouse Rotation *
+4.Editing - Delete
+5.View - Zoom (I attached a separate folder. It somehow doesn't function when I combine it with other features but it works fine on its own...)
+6.Combo - Camera&Mouse
+
+*these modes are switched when the 'Enter' key is pressed.
