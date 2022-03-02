@@ -96,4 +96,4 @@ This requires Zoom, Scroll, or Pan, and also Mouse pick, Mouse drag, or Mouse ro
 (*):  these modes are switched when the 'Enter' key is pressed.
 
 Reference: 
-László Szécsi. "Homework 1.3: 2D Game with textures and game physics". _CORA (Community of Online Research Assignments)_. 2021. Web. Sunday, 7 November 2021.
+László Szécsi. "Homework 1.2: 2D editor (Objects and transformations)". _CORA (Community of Online Research Assignments)_. 2021. Web. Saturday, 16 October 2021.
